@@ -21,7 +21,7 @@
 <h3 align="center">Me 😄</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Gmail_:jyn09@ajou.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br><img src="https://img.shields.io/badge/Naver_:_price__o@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a><br><img src="https://img.shields.io/badge/Instagram_:_joo__lnstagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gmail_:_jyn09@ajou.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br><img src="https://img.shields.io/badge/Naver_:_price__o@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a><br><img src="https://img.shields.io/badge/Instagram_:_iamyunajo-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <br><br>
